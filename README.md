@@ -37,3 +37,37 @@
 <br><br>
 [横文字の専門用語が覚えられない人に告ぐ](https://qiita.com/nishifeoda/items/60eecdf2496a7c87452d)
 <br><br>
+## 作成したアプリケーション
+ここでは、過去に制作したアプリのURLを整理しています。興味のあるテーマのリンクをクリックして閲覧してください。
+### アプリケーション
+ScanSnapSave(QRコード在庫管理Webアプリ)
+<br>
+[デプロイ先URL](https://scansnapsave.com/)
+<br>
+[ソースコード](https://github.com/Nakkinakki55/Scan_Snap_Save)
+<br><br>
+Ety-book - 語源で最速・最短で覚える英単語帳アプリ
+<br>
+[デプロイ先URL](https://ety-book.herokuapp.com/)
+<br>
+[ソースコード](https://github.com/Nakkinakki55/Ety_book)
+<br><br>
+
+CaesarCoder(シーザー暗号による文字列の暗号化・復号化 を行うAndroidアプリ)
+<br>
+[ソースコード](https://github.com/Nakkinakki55/CaesarCoder)
+<br><br>
+AddressPrinter(ハガキ印刷アプリ)
+<br>
+[ソースコード](https://github.com/Nakkinakki55/AddressPrinter)
+<br><br>
+
+## 運営しているブログ
+ここでは、現在運営しているブログのURLを整理しています。興味のあるテーマのリンクをクリックして閲覧してください。
+### ブログ
+Ety-book – 語源で英語を覚えるブログ
+<br>
+[デプロイ先URL](https://ety-book.com/)
+<br>
+**使用したツール:** WordPress
+
