@@ -20,7 +20,6 @@
 [無料で簡単！天気予報サイトを公開する方法をやさしく解説](https://qiita.com/nishifeoda/items/de3e8b7081a9381c0ce7)
 <br>
 使用した開発言語とツール: HTML・CSS・JavaScript・Git・GitHub・GithubPages
-<br>
 <br><br>
 [冬の朝をもっと快適に！Heroku×Nature Remoで実現するエアコン自動化プロジェクト](https://qiita.com/nishifeoda/items/25b62a3004774ed30278)
 <br>
@@ -57,7 +56,6 @@
 [初心者向け！毎日の天気予報をLINEに通知し、Googleスプレッドシートに記録するアプリを作成しよう](https://qiita.com/nishifeoda/items/7e458b261111f201c724)
 <br>
 使用した開発言語とツール: 使用した開発言語とツール: Google スプレッドシート・Google Apps Script
-<br>
 
 <br><br>
 [期限までにアップグレードし忘れていたHeroku Postgresを復活させる方法](https://qiita.com/nishifeoda/items/3e6953d1ce307e76213b)
