@@ -56,7 +56,7 @@
 [初心者向け！毎日の天気予報をLINEに通知し、Googleスプレッドシートに記録するアプリを作成しよう](https://qiita.com/nishifeoda/items/7e458b261111f201c724)
 <br>
 使用した開発言語とツール: 使用した開発言語とツール: Google スプレッドシート・Google Apps Script
-<br
+<br>
 [期限までにアップグレードし忘れていたHeroku Postgresを復活させる方法](https://qiita.com/nishifeoda/items/3e6953d1ce307e76213b)
 <br>
 [横文字の専門用語が覚えられない人に告ぐ](https://qiita.com/nishifeoda/items/60eecdf2496a7c87452d)
