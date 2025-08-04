@@ -65,6 +65,14 @@
 
 
 ### 社内ブログの記事
+[Microsoft TeamsのIncoming Webhookが2025年末に廃止へ 、Workflowsへの移行方法を解説](https://tech.tiger-rack.co.jp/programming/teams-incoming-webhook-end-2025-workflows-migration/)
+<br>
+使用した開発言語とツール: Microsoft Teams・VBA・PHP(Laravel)
+<br><br>
+[Autodesk Inventorでの図面作成をAPIで完全自動化、VBAとC#での実装方法も紹介](https://tech.tiger-rack.co.jp/programming/autodesk-inventor-api-drawing-automation-vba-csharp/)
+<br>
+使用した開発言語とツール: Autodesk Inventor・VBA・C#
+<br><br>
 [【完全保存版】Microsoft AccessをGit/GitHub管理する方法](https://tech.tiger-rack.co.jp/programming/access-git-github-management/)
 <br>
 使用した開発言語とツール: Microsoft Access・Git・GitHub・JScript
@@ -222,6 +230,14 @@ Technologies Used: Google Sheets, Google Apps Script
 
 
 ### Internal Blog Articles
+[Microsoft Teams Incoming Webhooks to be Deprecated by End of 2025: Migration Guide to Workflows](https://tech.tiger-rack.co.jp/programming/teams-incoming-webhook-end-2025-workflows-migration/)
+<br>
+Technologies Used:Microsoft Teams・VBA・PHP(Laravel)
+<br><br>
+[Full Automation of Drawing Creation in Autodesk Inventor with API: Implementation Methods in VBA and C#](https://tech.tiger-rack.co.jp/programming/autodesk-inventor-api-drawing-automation-vba-csharp/)
+<br>
+Technologies Used:Autodesk Inventor・VBA・C#
+<br><br>
 [【Complete Guide】How to Manage Microsoft Access with Git/GitHub](https://tech.tiger-rack.co.jp/programming/access-git-github-management/)
 <br>
 Technologies Used: Microsoft Access, Git, GitHub, JScript
