@@ -67,6 +67,8 @@
 ### 社内ブログの記事
 [【修正版】Microsoft AccessをGit/GitHub管理する方法](https://tech.tiger-rack.co.jp/programming/microsoft-access-git-github-management-revised/)
 <br>
+使用した開発言語とツール: Microsoft Access・Git・GitHub・JScript・PowerShell
+<br>
 [Microsoft TeamsのIncoming Webhookが2025年末に廃止へ 、Workflowsへの移行方法を解説](https://tech.tiger-rack.co.jp/programming/teams-incoming-webhook-end-2025-workflows-migration/)
 <br>
 使用した開発言語とツール: Microsoft Teams・VBA・PHP(Laravel)
@@ -233,6 +235,8 @@ Technologies Used: Google Sheets, Google Apps Script
 
 ### Internal Blog Articles
 [Revised: How to Manage Microsoft Access with Git and GitHub](https://tech.tiger-rack.co.jp/programming/microsoft-access-git-github-management-revised/)
+<br>
+使用した開発言語とツール: Microsoft Access・Git・GitHub・JScript・PowerShell
 <br>
 [Microsoft Teams Incoming Webhooks to be Deprecated by End of 2025: Migration Guide to Workflows](https://tech.tiger-rack.co.jp/programming/teams-incoming-webhook-end-2025-workflows-migration/)
 <br>
