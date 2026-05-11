@@ -12,6 +12,8 @@
 [Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）](https://qiita.com/nishifeoda/items/58a38dbfdfc038ccb79a)
 <br>
 使用した開発言語とツール: Ollama・Continue.dev
+<br><br>
+[PWAでQRコード読取アプリを開発！iPhone/Android対応＆S3・Lightsailの設定も解説](https://qiita.com/nishifeoda/items/d7c8e2e6c6f21bd0bf2e)
 <br>
 使用した開発言語とツール: Laravel・MySQL・PWA・Lightsail・VPS
 <br><br>
@@ -182,6 +184,7 @@ Here, you'll find a collection of URLs for articles I've published on Qiita and 
 [Since CloudCode is expensive, I tried creating a local environment using open-source software (Ollama × Continue).](https://qiita.com/nishifeoda/items/58a38dbfdfc038ccb79a)
 <br>
 Technologies Used: Ollama・Continue.dev
+<br><br>
 [Develop a QR Code Reader App with PWA! Supporting iPhone/Android & Explaining S3/Lightsail Settings](https://qiita.com/nishifeoda/items/d7c8e2e6c6f21bd0bf2e)
 <br>
 Technologies Used: Laravel, MySQL, PWA, Lightsail, VPS
