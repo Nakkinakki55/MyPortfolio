@@ -12,7 +12,6 @@
 [Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）](https://qiita.com/nishifeoda/items/58a38dbfdfc038ccb79a)
 <br>
 使用した開発言語とツール: Ollama・Continue.dev
-[PWAでQRコード読取アプリを開発！iPhone/Android対応＆S3・Lightsailの設定も解説](https://qiita.com/nishifeoda/items/d7c8e2e6c6f21bd0bf2e)
 <br>
 使用した開発言語とツール: Laravel・MySQL・PWA・Lightsail・VPS
 <br><br>
