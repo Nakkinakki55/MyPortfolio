@@ -9,6 +9,9 @@
 ここでは、Qiitaや社内ブログに投稿した記事のURLを整理しています。興味のあるテーマのリンクをクリックして閲覧してください。  
 
 ### Qiitaの記事  
+[Claude Codeが高いのでOSSでローカル環境を作ってみた（Ollama × Continue）](https://qiita.com/nishifeoda/items/58a38dbfdfc038ccb79a)
+<br>
+使用した開発言語とツール: Ollama・Continue.dev
 [PWAでQRコード読取アプリを開発！iPhone/Android対応＆S3・Lightsailの設定も解説](https://qiita.com/nishifeoda/items/d7c8e2e6c6f21bd0bf2e)
 <br>
 使用した開発言語とツール: Laravel・MySQL・PWA・Lightsail・VPS
@@ -177,7 +180,9 @@ This repository organizes **articles I've written, applications I've developed, 
 Here, you'll find a collection of URLs for articles I've published on Qiita and internal company blogs. Feel free to click on the links for topics that interest you.
 
 ### Qiita Articles
-
+[Since CloudCode is expensive, I tried creating a local environment using open-source software (Ollama × Continue).](https://qiita.com/nishifeoda/items/58a38dbfdfc038ccb79a)
+<br>
+Technologies Used: Ollama・Continue.dev
 [Develop a QR Code Reader App with PWA! Supporting iPhone/Android & Explaining S3/Lightsail Settings](https://qiita.com/nishifeoda/items/d7c8e2e6c6f21bd0bf2e)
 <br>
 Technologies Used: Laravel, MySQL, PWA, Lightsail, VPS
